@@ -1,3 +1,7 @@
+**`❗ Note`** |
+------------------- |
+This is an unofficial backup of Gillman's MAOI antidepressant blog [Psychotropical.com](https://psychotropical.com/). Please consider donating to him! |
+
 Patient stories: a professor's illness
 ======================================
 

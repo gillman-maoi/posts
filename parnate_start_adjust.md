@@ -1,6 +1,6 @@
 **`❗ Note`** |
 ------------------- |
-This a backup of Gillman's MAOI antidepressant blog [Psychotropical](https://psychotropical.com/). Please consider donating to him! |
+This is an unofficial backup of Gillman's MAOI antidepressant blog [Psychotropical.com](https://psychotropical.com/). Please consider donating to him! |
 
 Parnate: starting and adjusting the dose
 ========================================
